@@ -2,7 +2,7 @@
 
 function name {
     echo "Function called: $0"
-    echo "My name is $1"
+    echo "My name is ${2:-Hitesh}"
 }
 
 
@@ -29,4 +29,4 @@ function name() {
     echo "Hitesh"
 }
 
-echo "My name is: " $(name)
+printf "My name is: %s\n" "$(name)"

@@ -1,0 +1,26 @@
+how are you Mr. Hitesh
+how are you Mr. Rakesh
+how are you Mr. Ramesh
+how are you Mr. Jitesh
+Something went wrong
+how are you Mr. Hitesh
+how are you Mr. Rakesh
+how are you Mr. Suresh
+how are you Mr. Ramesh
+how are you Mr. Jitesh
+Something went wrong
+how are you Mr. Hitesh
+how are you Mr. Rakesh
+how are you Mr. Suresh
+how are you Mr. Ramesh
+how are you Mr. Jitesh
+
+
+This I'm writing to a file
+some gibrish
+content
+./practice5.sh: line 28: warning: here-document at line 24 delimited by end-of-file (wanted `EOF')
+This I'm writing to a file
+some gibrish
+content
+EOF > out.txt
