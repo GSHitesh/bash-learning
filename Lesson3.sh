@@ -67,7 +67,7 @@ do
     echo "While loop counter: $count"
     ((count++))
 done
-
+₹₹
 
 echo ""
 
